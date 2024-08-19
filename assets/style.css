@@ -1,0 +1,43 @@
+.mt-n1{
+    margin-top: 150px;
+}
+
+.h-n1{
+    height:600px !important;
+    
+}
+
+.text-color-text1{
+    color: hsl(75, 94%, 57%) !important;
+}
+
+.text-color-text2{
+    color: hsl(0, 0%, 100%)!important;
+}
+
+.body{
+    background-color: aquamarine !important;
+}
+
+.text-profile{
+    font-size:  20px;
+}
+
+.p-size{
+    font-size:  15px;
+}
+
+.bg-page{
+  background-color:   hsl(0, 0%, 8%);
+}
+.bg-card{
+    background-color:  hsl(0, 0%, 12%);
+}
+
+.btn{
+    width: 300px;
+}
+
+.color-final{
+    background-color:  hsl(0, 0%, 20%);
+}
